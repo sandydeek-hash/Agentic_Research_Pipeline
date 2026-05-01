@@ -22,7 +22,7 @@ This notebook builds a **3-stage agentic AI pipeline** that can autonomously res
 
 ## Why I Built This
 
-I'm a **Senior Technical Product Manager** with 14+ years in AI-powered platforms, actively building hands-on AI skills to complement my product expertise.
+I'm a **Senior Technical Product Manager** with expertise in AI-powered platforms, actively building hands-on AI skills to complement my product expertise.
 
 Understanding how agentic pipelines work under the hood helps me:
 - Write sharper requirements for AI features
@@ -103,12 +103,5 @@ The pipeline generates a structured research report with:
 
 ---
 
-## About Me
-
-Senior Technical Product Manager with expertise in AI platforms, digital commerce, and enterprise SaaS. Currently deepening hands-on AI/ML skills to build more technically credible AI products.
-
-📎 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
-
----
 
 *Part of my ongoing AI learning journey.*
